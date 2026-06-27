@@ -1,0 +1,61 @@
+{
+  "schemaVersion": 1,
+  "pluginId": "com.harborclient.plugins.gruvbox",
+  "pluginVersion": "1.0.0",
+  "algorithm": "Ed25519",
+  "files": [
+    {
+      "path": ".gitignore",
+      "sha256": "88ad380decbd9a1a6659c573833c96932dab32e7e0e88fa3353c98f758cd10b3"
+    },
+    {
+      "path": "dist/renderer.js",
+      "sha256": "c98acbbd117373d1b2edc25e7042e963337ce84fd30c6f3254baca9670d9b5b0"
+    },
+    {
+      "path": "manifest.json",
+      "sha256": "f2b886d1adb724910c3f2f0d16b95dd2db4672ae492d2a854a4a9cb255c6477f"
+    },
+    {
+      "path": "package.json",
+      "sha256": "d0633e602dce97913869218f184fb58616fe7f167d84c1d2ea89e9aa626511dc"
+    },
+    {
+      "path": "pnpm-lock.yaml",
+      "sha256": "f8629cd493e0012578ba994879f9c8cf847e4970bfe091389ebe434661ab8d54"
+    },
+    {
+      "path": "README.md",
+      "sha256": "e08781a87ff5d2c72febf0b93a9dd15d91afb78c7fdbf63b316c6dce4bc0c3ab"
+    },
+    {
+      "path": "screenshot.png",
+      "sha256": "298a79d013865436fed22965b1580623729141a12afd89930c3f8a20e1f6d04d"
+    },
+    {
+      "path": "scripts/plugin-sign.ts",
+      "sha256": "dc21f6daa2c0d454b53cc719524f41669c1f1a0319b80b50dc1f0b3fa3f796e3"
+    },
+    {
+      "path": "scripts/plugin-verify.ts",
+      "sha256": "555f897860b881817f6aa66a933a38fb31388b461b8fa1e9e9b6126b67bc18e0"
+    },
+    {
+      "path": "scripts/render-screenshot.sh",
+      "sha256": "d2fe525f530446f4f53add2abcfed2ec7f11253a7d128608781ccd18487fbb25"
+    },
+    {
+      "path": "scripts/screenshot-marketing.html",
+      "sha256": "079aa3f064d79de4533ee84176d927bfa5c05085d8834b144d43e0db4f0898ef"
+    },
+    {
+      "path": "src/renderer.tsx",
+      "sha256": "e61c95af60dc8dba9d4c3df1dfdf6f9f14f04e437bad02253ce3beb634c5e9db"
+    },
+    {
+      "path": "tsconfig.json",
+      "sha256": "dced0ea880bec6222ac9856d3d2ce11b91fd874298f3129c8b5944606dc73668"
+    }
+  ],
+  "signature": "+v35EGqQUxlwwVD9ya6ZrUltNr51gKNsBQrM1kjZQ+D3jOGOmB0/AxpN9oqVAInyt0fAX56Ng/oxyzYfU+l/BA=="
+}
