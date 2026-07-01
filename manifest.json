@@ -1,20 +1,19 @@
 {
   "id": "com.harborclient.plugins.gruvbox",
   "name": "Gruvbox Theme",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "HarborClient",
   "description": "README.md",
+  "summary": "A Gruvbox light theme for HarborClient.",
+  "categories": ["themes"],
   "screenshots": [
-    {
-      "path": "screenshot.png",
-      "caption": "Gruvbox Light in Settings → General → Appearance"
-    }
+    "https://raw.githubusercontent.com/harborclient/plugin-gruvbox/main/screenshot.png"
   ],
   "homepage": "https://github.com/harborclient/plugin-gruvbox",
   "bugs": {
     "url": "https://github.com/harborclient/plugin-gruvbox/issues"
   },
-  "engines": { "harborclient": ">=1.8.0" },
+  "engines": { "harborclient": ">=1.9.0" },
   "renderer": "dist/renderer.js",
   "permissions": ["ui"],
   "contributes": {
